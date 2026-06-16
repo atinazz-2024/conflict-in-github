@@ -3,3 +3,4 @@ Version 1.1
 Feature B implemented
 Rebase update applied
 Rebase update applied
+Another rebase change
